@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-inner img{
+  width: 30px;
+}
+.blog{
+  max-width: 760px;
+  margin: 0 auto;
+  border: 5px #000 solid;
+}
+.blog h1 {
+  font-size: 64px;
+}
+.blog img {
+  max-width: 80%;
+  display: block;
+}
